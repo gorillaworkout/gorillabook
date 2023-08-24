@@ -19,5 +19,5 @@ Default.args = {}
 // Title = "Hello World"
 export const TitleHelloWorld = Template.bind({})
 TitleHelloWorld.args = {
-  title: "Hello World"
+  title: "Hello 22"
 }
